@@ -6,6 +6,7 @@ body{
     margin: 0 auto;
     background-image: url(../img/04d2fc00325f33c20b55451a7618d02a.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 h1 {
